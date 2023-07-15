@@ -2,16 +2,11 @@
 <h3 align="center">A passionate CSE graduate and programmer from Bharat.</h3>
 
 - 🔭 I’m currently working on [Telegram Channel "सहस्रार"](https://t.me/TheSahasrara)
-
 - 🌱 I’m currently learning **Ethereum Blockchain**
-
 - 👨‍💻 All of my projects are available at [https://github.com/itspatkar?tab=repositories](https://github.com/itspatkar?tab=repositories)
-
-- 💬 Ask me about **C++, Linux, Shell Scripting**
-
-- 📫 How to reach me **reachmandar@protonmail.com**
-
-- ⚡ Fun fact **I did engineering :(**
+- 💬 Ask me about: **C++, Linux, Shell Scripting**
+- 📫 How to reach me: **reachmandar@protonmail.com**
+- ⚡ Fun fact: **I did engineering :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
