@@ -1,7 +1,7 @@
 <h1 align="center">Hi ⚡️ I'm Mandar Patkar <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
-<h3 align="center">A passionate CSE graduate and programmer from Bharat.</h3>
+<h3 align="center">A passionate Software Engineer from Bharat.</h3>
 
-- 🔭 I’m currently working on [Telegram Channel "सहस्रार"](https://t.me/TheSahasrara)
+- 🔭 I’m currently working on **PHP Projects**
 - 🌱 I’m currently learning **Ethereum Blockchain**
 - 👨‍💻 All of my projects are available at [https://github.com/itspatkar?tab=repositories](https://github.com/itspatkar?tab=repositories)
 - 💬 Ask me about: **C++, Linux, Shell Scripting**
