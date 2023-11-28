@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Software Engineer from Bharat.</h3>
 
 - 🔭 I’m currently working on **PHP Projects**
-- 🌱 I’m currently learning **Ethereum Blockchain**
+- 🌱 I’m currently learning **Laravel Framework**
 - 👨‍💻 All of my projects are available at [https://github.com/itspatkar?tab=repositories](https://github.com/itspatkar?tab=repositories)
-- 💬 Ask me about: **C++, Linux, Shell Scripting**
+- 💬 Ask me about: **C++, Linux, Shell Scripting, PHP**
 - 📫 How to reach me: **reachmandar@protonmail.com**
-- ⚡ Fun fact: **I did engineering :(**
+- ⚡ Fun fact: **I did engineering!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
