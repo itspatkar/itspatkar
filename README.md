@@ -7,4 +7,4 @@
 - 👨‍💻 All of my projects are available at [https://github.com/itspatkar?tab=repositories](https://github.com/itspatkar?tab=repositories)
 - 💬 Ask me about: **PHP, Laravel, C++, Linux, Shell Scripting**
 - 📫 How to reach me: **reachmandar@protonmail.com**
-- ⚡ Fun fact: **I did engineering!**
+- ⚡ Fun fact: **I Did Engineering!**
