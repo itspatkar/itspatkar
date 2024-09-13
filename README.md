@@ -7,5 +7,3 @@
 - 👨‍💻 All of my projects are available at [https://github.com/itspatkar?tab=repositories](https://github.com/itspatkar?tab=repositories)
 - 📫 How to reach me: **reachmandar@protonmail.com**
 
-Send an anonymous message with the [Session](https://getsession.org/).<br>
-> My Sessoin ID is `0560d3fa75bcd266f3dbc48aee11a5b51fde4e15dc668c06f8b960a288f4d02d46`
