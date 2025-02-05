@@ -3,7 +3,6 @@
 
 <br>
 
-- 💬 Ask me about: **C++, Laravel, Linux, Shell Scripting, Cyber Security!**
+- 💬 Ask me about: **Cyber Security, Privacy, Linux, Shell Scripting, Laravel, C++**
 - 👨‍💻 All of my projects are available at [https://github.com/itspatkar?tab=repositories](https://github.com/itspatkar?tab=repositories)
 - 📫 How to reach me: **reachmandar@protonmail.com**
-
