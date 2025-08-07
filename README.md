@@ -2,7 +2,7 @@
 <h2 align="center">⚔️ Hi, I'm Mandar Patkar ⚔️</h2>
 <h3 align="center">Offensive Security Enthusiast | Ex-Software Developer | Linux Power User</h3>
 
-┌──(root@mandar)-[~/profile]
+┌──(root@mandar)-[~/profile] 
 └─$ sudo about_me.sh
 
 - 🛡️ Passionate about **Cybersecurity, Hacking, and Red Teaming**
