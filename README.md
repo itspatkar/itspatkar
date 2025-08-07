@@ -1,9 +1,13 @@
 
-<h2 align="center">Hi, I'm Mandar Patkar</h2>
-<h4 align="center">Penetration Tester | Ex-Software Developer | Linux Administrator</h4>
+<h3 align="center">⚔️ Hi, I'm Mandar Patkar ⚔️</h3>
+<h4 align="center">Offensive Security Enthusiast | Ex-Software Developer | Linux Power User</h4>
 
-💬 Ask me about: **Cyber Security, Pentesting, Linux, Privacy**
-👨‍💻 All of my projects are available at [https://github.com/itspatkar?tab=repositories](https://github.com/itspatkar?tab=repositories)
-📫 How to reach me: **reachmandar@protonmail.com**
+┌──(root@mandar)-[~/profile]
+└─$ cat README.md
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itspatkar&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
+- 🛡️ Passionate about **Cybersecurity, Hacking, and Red Teaming**
+- 💻 Former Software Developer turned **Penetration Tester**
+- 🐧 Daily driving **Linux** and loving every kernel panic
+- 📂 Projects: **[github.com/itspatkar?tab=repositories](https://github.com/itspatkar?tab=repositories)**
+- ✉️ Email: **reachmandar@protonmail.com**
+- 🕵️‍♂️ Preferred platform: **Secure, encrypted channels only 🔏**
